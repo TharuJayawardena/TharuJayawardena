@@ -1,4 +1,11 @@
 ### <h1 align="center"><img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/emoji-emoticon.gif" height="55px" width="55px">...  I'm Tharushi Jayawardena</h1>
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
 ### I am undergraduate student at SLIIT. I am curently following a Information Technology degree specialization in Software Engineering.
 
 Here are some ideas to get you started:
