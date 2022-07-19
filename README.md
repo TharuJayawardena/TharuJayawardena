@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [c#]: https://www.javatpoint.com/c-sharp-tutorial
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
 
-<p><img align= "right" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/Lady-programming-4a.jpg"/></p>
+<p><img align= "right" alt="gif" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/Lady-programming-4a.jpg"/></p>
