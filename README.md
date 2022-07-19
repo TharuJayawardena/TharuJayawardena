@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [react]: http://reactjs.org
 [next]: https://nextjs.org
 [c#]: https://www.javatpoint.com/c-sharp-tutorial
+[javaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
 
 <p><img align="center" width="400" height="200" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/3nRDF.jpg" /> 
