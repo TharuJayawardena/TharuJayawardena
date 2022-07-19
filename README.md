@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 
+<p><img align= "right" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/new-game-ahagon-umiko-programming.gif"/></p>
 
  
 🧠 learning [nextjs][next], [typescript][typescript]  
@@ -27,4 +28,3 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/3nRDF.jpg" /> 
 
-<p><img align= "center" alt="gif" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/new-game-ahagon-umiko-programming.gif"/></p>
