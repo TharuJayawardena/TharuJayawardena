@@ -1,4 +1,7 @@
-### Hi, I'm Tharushi Jayawardena  👋
+<h1 align="center">Hi <img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/emoji-emoticon.gif" height="55px" width="55px">,  I'm Tharushi Jayawardena</h1>
+
+
+### Hi,  👋
 
 software-language-programmer-avatar-KCCEJK (2).jpg
 
