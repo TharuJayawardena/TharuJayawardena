@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with design/coding
 - 📫 How to reach me:linkedin
 - 😄 Pronouns: she/her
-
-
-<p><img align= "right" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/new-game-ahagon-umiko-programming.gif"/></p>
+<p><img align= "right" width: "100px" height: "100px" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/new-game-ahagon-umiko-programming.gif"/></p>
 
  
 🧠 learning [nextjs][next], [typescript][typescript]  
