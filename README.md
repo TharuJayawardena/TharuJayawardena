@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/emoji-emoticon.gif" height="55px" width="55px">,  I'm Tharushi Jayawardena</h1>
+### <h1 align="center"><img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/emoji-emoticon.gif" height="55px" width="55px">,  I'm Tharushi Jayawardena</h1>
 
 
 software-language-programmer-avatar-KCCEJK (2).jpg
