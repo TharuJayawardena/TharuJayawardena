@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Tharushi Jayawardena  👋
 
-<!--
-**TharuJayawardena/TharuJayawardena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am undergraduate student at SLIIT. I am curently following a Information Technology degree specialization in Software Engineering.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on cube360(pvt)Ltd as a Intern software Engineer
+- 🌱 I’m currently learning NextJs, ReactJs, GrapQl
+- 👯 I’m looking to collaborate on creating content!
+- 🤔 I’m looking for help with design/coding
+- 📫 How to reach me:linkedin
+- 😄 Pronouns: she/her
+
+
+
+ 
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [react][react], [c#][c#], [javaScript][javaScript]
+
+
+👔 [linkedin][linkedin]
+
+
+[react]: http://reactjs.org
+[next]: https://nextjs.org
+[c#]: https://www.javatpoint.com/c-sharp-tutorial
+[linkedin]: https://www.linkedin.com/in/tharushijayawardena/
