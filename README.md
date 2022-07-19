@@ -1,6 +1,6 @@
 ### Hi, I'm Tharushi Jayawardena  👋
 
-
+software-language-programmer-avatar-KCCEJK (2).jpg
 
 ### I am undergraduate student at SLIIT. I am curently following a Information Technology degree specialization in Software Engineering.
 
