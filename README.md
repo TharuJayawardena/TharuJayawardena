@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [c#]: https://www.javatpoint.com/c-sharp-tutorial
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
 
-<p><img align= "right" tsrc="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/software-language-programmer-avatar-KCCEJK%20(2).jpg" width="500" height="320"/></p>
+<p><img align= "right" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/software-language-programmer-avatar-KCCEJK%20(2).jpg" width="500" height="320"/></p>
