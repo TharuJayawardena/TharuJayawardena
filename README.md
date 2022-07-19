@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [next]: https://nextjs.org
 [c#]: https://www.javatpoint.com/c-sharp-tutorial
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
+
+<p><img align= "right" tsrc="" width="500" height="320"/></p>
