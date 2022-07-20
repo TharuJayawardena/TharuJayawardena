@@ -1,4 +1,4 @@
-### <h1 align="center"><img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/waving-hi.gif" height="100px" width="100px" >...  I'm Tharushi Jayawardena</h1>
+### <h1 align="center">Hi<img src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/waving-hi.gif" height="100px" width="100px" >...  I'm Tharushi Jayawardena</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
