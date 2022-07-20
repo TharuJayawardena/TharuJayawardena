@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NextJs, ReactJs, GrapQl
 - 👯 I’m looking to collaborate on creating content!
 - 🤔 I’m looking for help with design/coding
-- 📫 How to reach me:linkedin
+- 📫 How to reach me: [linkedin]
 - 😄 Pronouns: she/her
 <img align= "right" width="400" height="500"  src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/design-uiux-services.gif"/>
 
@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 🧠 learning [nextjs][next], [typescript][typescript]  
 💜 loving [react][react], [c#][c#], [javaScript][javaScript]
 
+
 📑 resume [resume][resume]
+
+
 
 
 
