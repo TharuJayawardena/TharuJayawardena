@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 [typescript]: https://www.typescriptlang.org/docs/
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
 
-<p><img align="center" width="400" height="200" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/design-uiux-services.gif" /> 
-
+<p><img align="center" width="400" height="200" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/3nRDF.jpg
