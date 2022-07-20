@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with design/coding
 - 📫 How to reach me:linkedin
 - 😄 Pronouns: she/her
-<img align= "right" width="400" height="500"  src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/new-game-ahagon-umiko-programming.gif"/>
+<img align= "right" width="400" height="500"  src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/dealjc7-abb10e4a-bbd2-42a2-a48a-1d5d007b3e20.gif"/>
 
  
 🧠 learning [nextjs][next], [typescript][typescript]  
