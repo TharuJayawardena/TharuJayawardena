@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 🧠 learning [nextjs][next], [typescript][typescript]  
 💜 loving [react][react], [c#][c#], [javaScript][javaScript]
 
-    cv [resume][resume]
+
 
 
 👔 [linkedin][linkedin]
+    cv [resume][resume]
    
 
 
