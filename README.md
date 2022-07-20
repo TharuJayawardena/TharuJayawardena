@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  
 🧠 learning [nextjs][next], [typescript][typescript]  
 💜 loving [react][react], [c#][c#], [javaScript][javaScript]
+
     resume [resume][resume]
 
 
@@ -35,6 +36,6 @@ Here are some ideas to get you started:
 [javaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org/docs/
 [linkedin]: https://www.linkedin.com/in/tharushijayawardena/
-[resume] : https://github.com/TharuJayawardena/TharuJayawardena/blob/main/Tharushi%20Jayawardena.pdf
+[resume]: https://github.com/TharuJayawardena/TharuJayawardena/blob/main/Tharushi%20Jayawardena.pdf
 
 <p><img align="center" width="400" height="200" src="https://github.com/TharuJayawardena/TharuJayawardena/blob/main/3nRDF.jpg"/>
