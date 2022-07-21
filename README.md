@@ -9,7 +9,7 @@
 
 ### I am undergraduate student at SLIIT. I am curently following a Information Technology degree specialization in Software Engineering.
 
-Here are some ideas to get you started:
+<h3><b>About Me</b></h3>
 
 - 🔭 I’m currently working on cube360(pvt)Ltd as a Intern software Engineer
 - 🌱 I’m currently learning NextJs, ReactJs, GrapQl
