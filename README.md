@@ -24,7 +24,6 @@
 💜 loving [react][react], [c#][c#], [javaScript][javaScript]
 
 
-📑 resume [resume][resume]
 
 
 
