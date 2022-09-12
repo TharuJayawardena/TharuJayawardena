@@ -1,5 +1,4 @@
-### <h1 align="center">Hi<img src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/86707962/189569810-0d37030e-9225-4aed-bd16-f91718ce4211.gif)
-" height="50px" width="50px" > I'm Tharushi Jayawardena</h1>
+### <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/86707962/189569810-0d37030e-9225-4aed-bd16-f91718ce4211.gif" height="50px" width="50px" > I'm Tharushi Jayawardena</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
