@@ -7,11 +7,11 @@
 
 </p>
 
-### I am undergraduate student at SLIIT. I am curently following a Information Technology degree specialization in Software Engineering.
+### I am undergraduate student at SLIIT. I am curently following a Information Technology Degree specialization in Software Engineering.
 
 <h3><b>About Me</b></h3>
 
-- 🔭 I’m currently working on cube360(pvt)Ltd as an Intern software Engineer
+- 🔭 I’m currently working in cube360(pvt)Ltd as an Intern software Engineer
 - 🌱 I’m currently learning NextJs, ReactJs, GrapQl
 - 👯 I’m looking to collaborate on creating content!
 - 🤔 I’m looking for help with design/coding
